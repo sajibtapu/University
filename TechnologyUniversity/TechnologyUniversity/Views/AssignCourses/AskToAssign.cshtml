@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+    <h2>Assign confirmation </h2>
+    <div><h3 style="color: chocolate">@ViewBag.Message</h3></div>
+</div>
+<div>
+    <form action="AssignConfirmed">
+        <input type="submit" value="Assign" class="btn btn-success" />
+    </form>
+    <p><br /></p>
+    <form action="Create">
+        <input type="submit" value="Cancel" class="btn btn-warning" />
+    </form>
+
+</div>
+

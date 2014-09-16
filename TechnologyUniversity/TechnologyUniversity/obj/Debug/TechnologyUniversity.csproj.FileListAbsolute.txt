@@ -1,0 +1,264 @@
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll.config
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.pdb
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\WebGrease.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.pdb
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.xml
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.pdb
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.DeparmentMigration.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.csproj.GenerateResource.Cache
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration2.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion2.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.updateAll.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourse.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourseagain.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.student.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.Allocation.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocation.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocationall.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.enrollment.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.resultEntry.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.csprojResolveAssemblyReference.cache
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.viewResult.resources
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.xmlworker.dll
+D:\Web Project in MVC\Final Project\TechnologyUniversity\TechnologyUniversity\bin\MvcRazorToPdf.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll.config
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.pdb
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.xmlworker.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\MvcRazorToPdf.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\WebGrease.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.pdb
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.DeparmentMigration.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration2.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion2.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.updateAll.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourse.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourseagain.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.student.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.Allocation.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocation.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocationall.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.enrollment.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.resultEntry.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.viewResult.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.csproj.GenerateResource.Cache
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.pdb
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.finish.resources
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\JQueryUIHelpers.dll
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\bin\JQueryUIHelpers.xml
+D:\Web Project in MVC\Final Project\New folder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.csprojResolveAssemblyReference.cache
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll.config
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.pdb
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.xmlworker.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\JQueryUIHelpers.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.Web.Infrastructure.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\MvcRazorToPdf.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\WebGrease.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.pdb
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\JQueryUIHelpers.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.xml
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.DeparmentMigration.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration2.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion2.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.updateAll.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourse.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourseagain.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.student.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.Allocation.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocation.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocationall.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.enrollment.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.resultEntry.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.viewResult.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.finish.resources
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.csproj.GenerateResource.Cache
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.dll
+J:\ASP.NET\Final Project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.pdb
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.DeparmentMigration.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration2.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion2.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.updateAll.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourse.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourseagain.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.student.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.Allocation.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocation.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocationall.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.enrollment.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.resultEntry.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.viewResult.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.finish.resources
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.csproj.GenerateResource.Cache
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.pdb
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll.config
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.pdb
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.xmlworker.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\JQueryUIHelpers.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.Web.Infrastructure.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\MvcRazorToPdf.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\WebGrease.dll
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.pdb
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\JQueryUIHelpers.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.xml
+I:\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll.config
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\TechnologyUniversity.pdb
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\itextsharp.xmlworker.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\JQueryUIHelpers.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.Web.Infrastructure.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\MvcRazorToPdf.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\WebGrease.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Antlr3.Runtime.pdb
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\EntityFramework.SqlServer.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\JQueryUIHelpers.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Helpers.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Mvc.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Optimization.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.Razor.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Deployment.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\System.Web.WebPages.Razor.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\bin\Newtonsoft.Json.xml
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.DeparmentMigration.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.CourseMigration2.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.TeacherMigraion2.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.updateAll.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourse.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.AssignCourseagain.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.student.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.Allocation.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocation.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.roomallocationall.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.enrollment.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.resultEntry.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.viewResult.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.Migrations.finish.resources
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.csproj.GenerateResource.Cache
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.dll
+E:\asp.net\project\Serial Coder\TechnologyUniversity\TechnologyUniversity\obj\Debug\TechnologyUniversity.pdb

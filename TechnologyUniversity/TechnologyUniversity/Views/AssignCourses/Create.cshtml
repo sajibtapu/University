@@ -1,0 +1,138 @@
+﻿@model TechnologyUniversity.Models.AssignCourse
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p class="text-center">
+    <font size=7>Assign Course to Teacher</font>
+</p>
+
+<script src="~/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="~/Scripts/jquery-ui-1.10.4.min.js" type="text/javascript"></script>
+
+<h3 style="color: green">@TempData["success"]</h3>
+<h3 style="color: red">@TempData["Already"]</h3>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>AssignCourse</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentId, "DepartmentId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DepartmentId", null,"Select any Deartment", htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DepartmentId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherId, "TeacherId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Partial("_FillteredTeacher")
+                @Html.ValidationMessageFor(model => model.TeacherId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        
+        
+   
+            <div  id="teacherInfo">
+                @Html.Partial("~/Views/Shared/_TeachersCreditInfo.cshtml")
+            </div>
+   
+
+            @*<div class="form-group">
+                @Html.LabelFor(model => model.CreditTaken, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.CreditTaken, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.CreditTaken, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.RemaingCredit, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.RemaingCredit, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.RemaingCredit, "", new { @class = "text-danger" })
+                </div>
+            </div>*@
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CourseId, "CourseId", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.Partial("_FilteredCourse")
+                    @Html.ValidationMessageFor(model => model.CourseId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        
+      
+            <div  id="courseInfo">
+                @Html.Partial("~/Views/Shared/_CourseInfo.cshtml")
+            </div>
+        
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Assign" class="btn btn-default" />
+                    @*<input type="reset" value="Reset" class="btn btn-warning" />*@
+                </div>
+            </div>
+        </div>
+}
+
+
+
+
+<script type="text/javascript">
+    @*function FillData(id) {
+
+        $('#TeacherId').load('@Url.Action("LoadTeacher")', { departmentId: id });
+        $('#CourseId').load('@Url.Action("LoadCourse")', { departmentId: id });
+
+    }
+    function FillTeacherInfo(id) {
+
+        $('#teacherInfo').load('@Url.Action("TeacherInfoLoad")', { teacherId: id });
+
+    }
+    function FillCourseInfo(id) {
+
+        $('#courseInfo').load('@Url.Action("CourseInfoLoad")', { courseId: id });
+
+    }*@
+
+    $(function () {
+        $('#DepartmentId').change(function () {
+            var id = $('#DepartmentId').val();
+            $('#TeacherId').load('@Url.Action("LoadTeacher")', { departmentId: id });
+            $('#CourseId').load('@Url.Action("LoadCourse")', { departmentId: id });
+        });
+        $('#TeacherId').change(function () {
+            var id = $('#TeacherId').val();
+            $('#teacherInfo').load('@Url.Action("TeacherInfoLoad")', { teacherId: id });
+        });
+        $('#CourseId').change(function () {
+            var id = $('#CourseId').val();
+            $('#courseInfo').load('@Url.Action("CourseInfoLoad")', { courseId: id });
+        });
+    });
+</script>
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    
+  
+}
